@@ -1,7 +1,7 @@
 
 ## filter-2
 CNN model
-# This ia a model for good/bad beazleys filter based on tensorflow, gitclone the project if you like.
+This ia a model for good/bad beazleys filter based on tensorflow, gitclone the project if you like.
 
 ## How to use:
 
