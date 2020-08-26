@@ -2,7 +2,8 @@
 ## filter-2
 CNN model
 This ia a model for good/bad beazleys filter based on tensorflow, gitclone the project if you like.
-
+The structure of this network is shown in CNN.jpg.
+The performance on test set was described by roc in roc.jpg
 ## How to use:
 
 # 1. Standradize all your images
